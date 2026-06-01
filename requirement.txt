@@ -1,0 +1,7 @@
+pyrogram
+aiosqlite
+aiohttp
+pytz
+uvloop==0.22.1
+motor
+python-dotenv
